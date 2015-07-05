@@ -1,0 +1,27 @@
+{
+  "name": "4-example-ajax",
+  "version": "1.0.0",
+  "description": "ajax test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "Andrew EclipticWld",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "faker": "^2.1.5",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-insert": "^0.4.0",
+    "gulp-stylus": "^2.0.5",
+    "lodash": "^3.10.0"
+  }
+}

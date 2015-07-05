@@ -1,0 +1,25 @@
+{
+  "name": "4-example",
+  "version": "1.0.0",
+  "description": "Add new friends ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "Andrew EclipticWld",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-insert": "^0.4.0",
+    "gulp-stylus": "^2.0.5",
+    "browser-sync": "^2.7.13"
+  }
+}
